@@ -1,0 +1,6 @@
+E:\Projetos\WebAspNetFramework\Database\bin\Debug\Database.dll
+E:\Projetos\WebAspNetFramework\Database\bin\Debug\Database.pdb
+E:\Projetos\WebAspNetFramework\Database\obj\Debug\Database.csprojAssemblyReference.cache
+E:\Projetos\WebAspNetFramework\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+E:\Projetos\WebAspNetFramework\Database\obj\Debug\Database.dll
+E:\Projetos\WebAspNetFramework\Database\obj\Debug\Database.pdb

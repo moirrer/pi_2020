@@ -1,0 +1,64 @@
+.Login {
+    border-radius: 10px;
+    padding: 10px;
+    width: 90%;
+    max-width: 275px;
+  }
+  
+  .Login form {
+    text-align: left;
+  }
+  
+  .Login input {
+    display: block;
+    align-items: center;
+    margin: 30px 0px 10px 0px;
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid #c0c0c0;
+    border-radius: 5px;
+    font-size: 0.9em;
+    line-height: 20px;
+    color: #555555;
+    width: 90%;
+    padding-right: 20px;
+  }
+
+  #inputEmail {
+    background: url(../images/email.png) no-repeat 15px 15px;
+    background-position: right;
+  }
+  
+  #inputPassword {
+    background: url(../images/password.png) no-repeat 15px 15px;
+    background-position: right;
+  }
+
+  .Login ::placeholder {
+      font-size: 1.1em;
+  }
+  
+  .Login button {
+    margin-top: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #2196F3;
+    color: white;
+    padding: 8px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: 0.2s;
+    opacity: 0.7;
+  }
+
+  .Login button:hover {
+    background: #0b7dda;
+    opacity: 1;
+    box-shadow: 2.5px 2.5px 10px rgba(0,0,0,0.4);
+  }
+  
+  .Login .Error {
+    color: red;
+    margin: -5px 0 10px;
+    font-size: 0.8em;
+  }

@@ -1,0 +1,6 @@
+E:\Projetos\WebAspNetFramework\Database\bin\Release\Database.dll
+E:\Projetos\WebAspNetFramework\Database\bin\Release\Database.pdb
+E:\Projetos\WebAspNetFramework\Database\obj\Release\Database.csprojAssemblyReference.cache
+E:\Projetos\WebAspNetFramework\Database\obj\Release\Database.csproj.CoreCompileInputs.cache
+E:\Projetos\WebAspNetFramework\Database\obj\Release\Database.dll
+E:\Projetos\WebAspNetFramework\Database\obj\Release\Database.pdb

@@ -1,0 +1,9 @@
+E:\Projetos\WebAspNetFramework\Regras\bin\Release\Regras.dll
+E:\Projetos\WebAspNetFramework\Regras\bin\Release\Regras.pdb
+E:\Projetos\WebAspNetFramework\Regras\obj\Release\Regras.csprojAssemblyReference.cache
+E:\Projetos\WebAspNetFramework\Regras\obj\Release\Regras.csproj.CoreCompileInputs.cache
+E:\Projetos\WebAspNetFramework\Regras\obj\Release\Regras.dll
+E:\Projetos\WebAspNetFramework\Regras\obj\Release\Regras.pdb
+E:\Projetos\WebAspNetFramework\Regras\bin\Release\Database.dll
+E:\Projetos\WebAspNetFramework\Regras\bin\Release\Database.pdb
+E:\Projetos\WebAspNetFramework\Regras\obj\Release\Regras.csproj.CopyComplete

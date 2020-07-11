@@ -1,0 +1,24 @@
+﻿@using React.Web.Mvc
+@{
+    ViewBag.Title = "Index";
+    List<Regras.Usuario> usuario = ViewBag.usuario;
+}
+
+<h2>Index</h2>
+
+<p>
+    Bem vindo @ViewBag.msg
+</p>
+
+<p>
+    @foreach (var u in usuario)
+    {
+        @u.nome <br />
+        @u.data_nascimento <br />
+    }
+</p>
+
+@Html.React("Hello", new
+{
+    name="Visitante"
+})
